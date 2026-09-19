@@ -1,0 +1,6 @@
+{
+  "name": "Hiring Signal Board",
+  "description": "Evidence-first hiring intelligence and structured decision workspace for hiring teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
